@@ -22,3 +22,13 @@ msgstr "Показувати колонку податку у звіті"
 #: model:ir.model.fields,field_description:purchase_order_report_hide_tax.field_account_tax_group__show_tax_column_in_purchase_report
 msgid "Show Tax Column In Purchase Report"
 msgstr "Показувати стовпець податку у звіті закупівлі"
+
+#. module: purchase_order_report_hide_tax
+#: model:ir.model.fields,help:purchase_order_report_hide_tax.field_account_tax_group__show_tax_column_in_purchase_report
+msgid ""
+"If enabled, always show the Taxes column on the Purchase Order report for "
+"this tax group even when all lines in the order share the same taxes."
+msgstr ""
+"Якщо увімкнено, завжди показувати стовпець «Податки» у звіті замовлення на "
+"закупівлю для цієї податкової групи, навіть коли всі рядки замовлення мають "
+"однакові податки."
