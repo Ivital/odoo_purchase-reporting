@@ -17,3 +17,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:purchase_packaging_report.field_purchase_report__product_packaging_id
 msgid "Packaging"
 msgstr "Пакування"
+
+#. module: purchase_packaging_report
+#: model:ir.model.fields,field_description:purchase_packaging_report.field_purchase_report__product_packaging_qty
+msgid "Packaging Qty"
+msgstr "Кількість пакування"
+
+#. module: purchase_packaging_report
+#: model_terms:ir.ui.view,arch_db:purchase_packaging_report.view_purchase_order_search
+msgid "Product Packaging"
+msgstr "Пакування товару"
