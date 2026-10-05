@@ -27,3 +27,8 @@ msgstr "Коментарі до документів"
 #: model:ir.model.fields,field_description:purchase_comment_template.field_purchase_order__comment_template_ids
 msgid "Comment Template"
 msgstr "Шаблон коментаря"
+
+#. module: purchase_comment_template
+#: model:ir.actions.act_window,name:purchase_comment_template.action_purchase_order_comment_template
+msgid "Purchase Orders Comments"
+msgstr "Коментарі до замовлень закупівлі"

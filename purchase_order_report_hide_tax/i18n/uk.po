@@ -17,3 +17,8 @@ msgstr "Приховує колонку податків, коли вона не
 #: model:ir.model.fields,field_description:purchase_order_report_hide_tax.field_purchase_order__show_tax_column_in_report
 msgid "Show Tax Column In Report"
 msgstr "Показувати колонку податку у звіті"
+
+#. module: purchase_order_report_hide_tax
+#: model:ir.model.fields,field_description:purchase_order_report_hide_tax.field_account_tax_group__show_tax_column_in_purchase_report
+msgid "Show Tax Column In Purchase Report"
+msgstr "Показувати стовпець податку у звіті закупівлі"
